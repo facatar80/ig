@@ -1,5 +1,5 @@
 # How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/facatar80/ig
+	* git clone https://github.com/facatar80/ig.git
 	* cd ig
 	* unzip node_modules.zip
 <br/>
